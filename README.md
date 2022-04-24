@@ -35,7 +35,6 @@ My current research interests include Machine Learning and Computer Vision. Curr
 - **Yuexuan An**, Shifei Ding, Jipu Hu. Twin Support Vector Machine: A Review. Computer Science, 2018, 45(11): 29-36 (in Chinese).
 - Shifei Ding, Yuting Sun, **Yuexuan An**, Weikuan Jia. Multiple birth support vector machine based on recurrent neural networks. Applied Intelligence, 2020, 50(7): 2280-2292.
 - Shifei Ding, **Yuexuan An**. Multiple Birth Support Vector Machine with Triplet Loss Function. Journal of Information Science and Engineering, 2019, 35(6): 1365-1376.
-
 - Xingyu Zhao, Shifei Ding, **Yuexuan An**, Weikuan Jia. Applications of asynchronous deep reinforcement learning based on dynamic updating weights. Applied Intelligence, 2019, 49(2): 581-591.
 - Xingyu Zhao, Shifei Ding, **Yuexuan An**, Weikuan Jia. Asynchronous reinforcement learning algorithms for solving discrete space path planning problems. Applied Intelligence, 2018, 48(12): 4889-4904.
 - Shifei Ding, Jian Zhang, Xiekai Zhang, **Yuexuan An**. Survey on multi class twin support vector machines. Journal of Software, 2018, 29(1):89-108 (in Chinese).
