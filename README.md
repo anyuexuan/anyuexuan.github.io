@@ -1,26 +1,26 @@
-# **Welcome to Yuexuan An's Home Page**
+# Welcome to Yuexuan An's Home Page
 
 Currently I am a Ph.D. student of [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/) and a member of [PALM](http://palm.seu.edu.cn/) Group, led by professor [Xin Geng](http://palm.seu.edu.cn/xgeng/).
 
-## **Supervisor**
+## Supervisor
 
 Professor [Hui Xue](http://palm.seu.edu.cn/hxue/).
 
-## **News**
+## News
 
 - 2022-4-21 One paper accepted by IJCAI-ECAI'22.
 - 2021-7-23 One paper accepted by Pattern Recognition.
 - 2021-4-29 One paper accepted by IJCAI'21.
 
-## **Biography**
+## Biography
 
 I got my B.Sc. degree in June 2015 from [School of Computer Science and Technology](http://eit.jsnu.edu.cn/) of [Jiangsu Normal University](http://www.jsnu.edu.cn/). Then I got my M.Sc. degree in June 2019 from [School of Computer Science and Technology](http://cs.cumt.edu.cn/) of [China University of Mining and Technology](http://www.cumt.edu.cn/). In the same year, I was admitted to pursue Ph.D. degree in [School of Computer Science and Engineering](https://cse.seu.edu.cn/) of [Southeast University](https://www.seu.edu.cn/).
 
-## **Research Interests**
+## Research Interests
 
 My current research interests include Machine Learning and Computer Vision. Currently, I'm focused on Few-shot Learning and Self-Supervised Learning.
 
-## **Selected Publications**
+## Selected Publications
 
 **Conference Papers**
 
@@ -41,7 +41,7 @@ My current research interests include Machine Learning and Computer Vision. Curr
 - Shifei Ding, **Yuexuan An**, Xiekai Zhang, Fulin Wu, Yu Xue. Wavelet twin support vector machines based on glowworm swarm optimization. Neurocomputing, 2017, 225: 157-163.
 - Shifei Ding, Xiekai Zhang, **Yuexuan An**, Yu Xue. Weighted linear loss multiple birth support vector machine based on information granulation for multi-class classification. Pattern Recognition, 2017, 67: 32-46.
 
-## **Pages**
+## Pages
 
 [Github](https://github.com/anyuexuan)
 
@@ -53,6 +53,6 @@ My current research interests include Machine Learning and Computer Vision. Curr
 
 [Semantic Scholar](https://www.semanticscholar.org/author/7686972)
 
-## **Correspondence**
+## Correspondence
 
 **Email:** yx_an@seu.edu.cn
