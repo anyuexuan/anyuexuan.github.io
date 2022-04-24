@@ -14,7 +14,7 @@ Professor [Hui Xue](http://palm.seu.edu.cn/hxue/).
 
 ## Biography
 
-I got my B.Sc. degree in June 2015 from [School of Computer Science and Technology](http://eit.jsnu.edu.cn/) of [Jiangsu Normal University](http://www.jsnu.edu.cn/). Then I got my M.Sc. degree in June 2019 from [School of Computer Science and Technology](http://cs.cumt.edu.cn/) of [China University of Mining and Technology](http://www.cumt.edu.cn/). In the same year, I was admitted to pursue Ph.D. degree in [School of Computer Science and Engineering](https://cse.seu.edu.cn/) of [Southeast University](https://www.seu.edu.cn/).
+ I am currently pursuing my Ph.D. degree  in [School of Computer Science and Engineering](https://cse.seu.edu.cn/) of [Southeast University](https://www.seu.edu.cn/). I received my B.Sc. degree in June 2015 from [School of Computer Science and Technology](http://eit.jsnu.edu.cn/) of [Jiangsu Normal University](http://www.jsnu.edu.cn/). Then I received my M.Sc. degree in June 2019 from [School of Computer Science and Technology](http://cs.cumt.edu.cn/) of [China University of Mining and Technology](http://www.cumt.edu.cn/).
 
 ## Research Interests
 
