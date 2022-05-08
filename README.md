@@ -26,7 +26,7 @@ My current research interests include Machine Learning and Computer Vision. Curr
 
 - **Yuexuan An**, Hui Xue, Xingyu Zhao, Lu Zhang. Conditional Self-Supervised Learning for Few-Shot Classification. IJCAI 2021: 2140-2146. (**Oral, Acceptance rate 13.9%**)
 
-- Xingyu Zhao, **Yuexuan An**, Ning Xu, Xin Geng. Fusion Label Enhancement for Multi-Label Learning. IJCAI 2022. (**Long Oral, Acceptance rate 3.75%**)
+- Xingyu Zhao, **Yuexuan An**, Ning Xu, Xin Geng. Fusion Label Enhancement for Multi-Label Learning. IJCAI 2022. (**Long Oral, Acceptance rate 3.77%**)
 
 **Journal Articles**
 
