@@ -1,6 +1,6 @@
 # Welcome to Yuexuan An's Home Page
 
-Currently I am a Ph.D. student of [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/) and a member of [PALM](http://palm.seu.edu.cn/) Group, led by professor [Xin Geng](http://palm.seu.edu.cn/xgeng/).
+Currently I am a Ph.D. candidate of [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/) and a member of [PALM](http://palm.seu.edu.cn/) Group, led by professor [Xin Geng](http://palm.seu.edu.cn/xgeng/).
 
 ## Supervisor
 
@@ -14,7 +14,7 @@ Professor [Hui Xue](http://palm.seu.edu.cn/hxue/).
 
 ## Biography
 
- I am currently pursuing my Ph.D. degree  in [School of Computer Science and Engineering](https://cse.seu.edu.cn/) of [Southeast University](https://www.seu.edu.cn/). I received my B.Sc. degree in June 2015 from [School of Computer Science and Technology](http://eit.jsnu.edu.cn/) of [Jiangsu Normal University](http://www.jsnu.edu.cn/). Then I received my M.Sc. degree in June 2019 from [School of Computer Science and Technology](http://cs.cumt.edu.cn/) of [China University of Mining and Technology](http://www.cumt.edu.cn/).
+I got my B.Sc. degree in June 2015 from [School of Computer Science and Technology](http://eit.jsnu.edu.cn/) of [Jiangsu Normal University](http://www.jsnu.edu.cn/). Then I got my M.Sc. degree in June 2019 from [School of Computer Science and Technology](http://cs.cumt.edu.cn/) of [China University of Mining and Technology](http://www.cumt.edu.cn/). In the same year, I was admitted to pursue Ph.D. degree in [School of Computer Science and Engineering](https://cse.seu.edu.cn/) of [Southeast University](https://www.seu.edu.cn/).
 
 ## Research Interests
 
@@ -26,7 +26,7 @@ My current research interests include Machine Learning and Computer Vision. Curr
 
 - **Yuexuan An**, Hui Xue, Xingyu Zhao, Lu Zhang. Conditional Self-Supervised Learning for Few-Shot Classification. IJCAI 2021: 2140-2146. (**Oral, Acceptance rate 13.9%**)
 
-- Xingyu Zhao, **Yuexuan An**, Ning Xu, Xin Geng. Fusion Label Enhancement for Multi-Label Learning. IJCAI 2022. (**Long Oral, Acceptance rate 3.77%**)
+- Xingyu Zhao, **Yuexuan An**, Ning Xu, Xin Geng. Fusion Label Enhancement for Multi-Label Learning. IJCAI 2022: 3773-3779. (**Long Oral, Acceptance rate 3.72%**)
 
 **Journal Articles**
 
