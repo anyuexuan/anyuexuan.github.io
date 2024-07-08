@@ -11,7 +11,7 @@
     </script>
     <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
-	  TeX: { equationNumbers: { autoNumber: "AMS" } }
+TeX: { equationNumbers: { autoNumber: "AMS" } }
 });
     </script>
     <!-- End MathJax -->
@@ -65,72 +65,6 @@ MathJax.Hub.Config({
             font-size: 36px;
         }
     </style>
-    <script>NS_CSM_td = 1072877950;
-    NS_CSM_pd = 275116666;
-    NS_CSM_u = "/clm10";
-    NS_CSM_col = "logstream_10.64.16.45";</script>
-    <script type="text/javascript">function sendTimingInfoInit() {
-        setTimeout(sendTimingInfo, 0)
-    }
-
-    function sendTimingInfo() {
-        var wp = window.performance;
-        if (wp) {
-            var c1, c2, t;
-            c1 = wp.timing;
-            if (c1) {
-                var cm = {};
-                cm.ns = c1.navigationStart;
-                if ((t = c1.unloadEventStart) > 0) cm.us = t;
-                if ((t = c1.unloadEventEnd) > 0) cm.ue = t;
-                if ((t = c1.redirectStart) > 0) cm.rs = t;
-                if ((t = c1.redirectEnd) > 0) cm.re = t;
-                cm.fs = c1.fetchStart;
-                cm.dls = c1.domainLookupStart;
-                cm.dle = c1.domainLookupEnd;
-                cm.cs = c1.connectStart;
-                cm.ce = c1.connectEnd;
-                if ((t = c1.secureConnectionStart) > 0) cm.scs = t;
-                cm.rqs = c1.requestStart;
-                cm.rss = c1.responseStart;
-                cm.rse = c1.responseEnd;
-                cm.dl = c1.domLoading;
-                cm.di = c1.domInteractive;
-                cm.dcls = c1.domContentLoadedEventStart;
-                cm.dcle = c1.domContentLoadedEventEnd;
-                cm.dc = c1.domComplete;
-                if ((t = c1.loadEventStart) > 0) cm.ls = t;
-                if ((t = c1.loadEventEnd) > 0) cm.le = t;
-                cm.tid = NS_CSM_td;
-                cm.pid = NS_CSM_pd;
-                cm.ac = NS_CSM_col;
-                var xhttp = new XMLHttpRequest();
-                if (xhttp) {
-                    var JSON = JSON || {};
-                    JSON.stringify = JSON.stringify || function (ob) {
-                        var t = typeof (ob);
-                        if (t != "object" || ob === null) {
-                            if (t == "string") ob = '"' + ob + '"';
-                            return String(ob);
-                        } else {
-                            var n, v, json = [], arr = (ob && ob.constructor == Array);
-                            for (n in ob) {
-                                v = ob[n];
-                                t = typeof (v);
-                                if (t == "string") v = '"' + v + '"'; else if (t == "object" && v !== null) v = JSON.stringify(v);
-                                json.push((arr ? "" : '"' + n + '":') + String(v));
-                            }
-                            return (arr ? "[" : "{") + String(json) + (arr ? "]" : "}");
-                        }
-                    };
-                    xhttp.open("POST", NS_CSM_u, true);
-                    xhttp.send(JSON.stringify(cm));
-                }
-            }
-        }
-    }
-
-    if (window.addEventListener) window.addEventListener("load", sendTimingInfoInit, false); else if (window.attachEvent) window.attachEvent("onload", sendTimingInfoInit); else window.onload = sendTimingInfoInit;</script>
 </head>
 <body>
 <table summary="Table for page layout." id="tlayout">
@@ -143,10 +77,6 @@ MathJax.Hub.Config({
             <div class="menu-item"><a href="https://www.seu.edu.cn">Southeast&nbsp;University</a></div>
             <div class="menu-category">Pages</div>
             <div class="menu-item"><a href="http://scholar.google.com/citations?user=gCYx1SwAAAAJ&hl=en" target="blank">Google&nbsp;Scholar</a>
-            </div>
-            <div class="menu-item" style="visibility:hidden">
-                <script type="text/javascript"
-                        src="//rf.revolvermaps.com/0/0/9.js?i=50ej7y0bfmi&amp;t=Site%20Statistics" async></script>
             </div>
         </td>
         <td id="layout-content">
@@ -286,7 +216,12 @@ MathJax.Hub.Config({
     </tr>
 </table>
 <p id="clustrmaps" style="display:none">
-<a href="https://clustrmaps.com/site/1c0dw" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=HP3Y9uF8vtaBLQ07qCKaomoeUEroCLAnOhJrstBXeNE&cl=ffffff"></a>
+    <a href="https://clustrmaps.com/site/1c0dw" title="Visit tracker"><img
+            src="//www.clustrmaps.com/map_v2.png?d=HP3Y9uF8vtaBLQ07qCKaomoeUEroCLAnOhJrstBXeNE&cl=ffffff"></a>
+</p>
+<p id="revolvermaps" style="display:none">
+    <script type="text/javascript"
+            src="//rf.revolvermaps.com/0/0/9.js?i=50ej7y0bfmi&amp;t=Site%20Statistics" async></script>
 </p>
 </body>
 </html>
